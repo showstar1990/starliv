@@ -12,9 +12,7 @@
 九江新闻✨阿星,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8?t=1736824500&token=3c09b1bd4790714b96f82ecc182d1b2f
 九江公共✨阿星,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8?t=1736824447&token=a012e7114818fdc6f4f1983ed7454524
 九江教育✨阿星,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8?t=1736824560&token=9af5a4d17c0446139dd397383b67abd0
-南昌新闻✨阿星,https://live.nctv.net.cn/live/nctv1.flv?txSecret=bd5435a5b7766eba063e356285d761c9&amp
-南昌都市✨阿星,https://live.nctv.net.cn/live/nctv2.flv?txSecret=be8b46a5fb549b6da29f199058803c6f&amp
-南昌资讯✨阿星,https://live.nctv.net.cn/live/nctv3.flv?txSecret=81017a137d912f0c0115fd991dce00f2&amp
+CCTV1✨阿星,https://live-dtocnc-cdn.ysp.cctv.cn/DAB8F44FD7123DCF5AF68FFACD4A30C37E10AFFB739A41FC4316640B28366A5E696BA072417B5D5347D2C49A9C14990144963F1443D07FD0CEE47ECB660CE7A04508A860FFA50F8DFA7C77A73637796C532657CE8D1144E7C7370C7A3B65F8BDE07BCAE1DC1B3820BEC08A8CDA79B536/2024078203_web.m3u8
 
 ▶️HK&TW-V4✨阿星,#genre#
 TVB无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
