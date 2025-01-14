@@ -1,7 +1,5 @@
-💝阿星✨公告,#genre#
-💝关注抖音show.star,✨阿星,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-📺︎JXTV-V4✨阿星维护,#genre#
-江西卫视✨阿星,✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173682298990117&token=0c38986a9f9bab804007ce6cf55e6f12
+▶️JXTV-V4✨阿星,#genre#
+江西卫视✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173682298990117&token=0c38986a9f9bab804007ce6cf55e6f12
 江西都市✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173682360831914&token=864c26ee6e698be502c6b8fbc66dbbfa
 经济生活✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=173682358933455&token=ea718bf319dce86852712ccfdd5464fd
 影视旅游✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&t=173682363637539&token=81a134f6594ded00a233675264bd477f
@@ -14,11 +12,11 @@
 九江新闻✨阿星,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8?t=1736824500&token=3c09b1bd4790714b96f82ecc182d1b2f
 九江公共✨阿星,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8?t=1736824447&token=a012e7114818fdc6f4f1983ed7454524
 九江教育✨阿星,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8?t=1736824560&token=9af5a4d17c0446139dd397383b67abd0
-南昌新闻✨阿星,https://live.nctv.net.cn/live/nctv1.flv?txSecret=bd5435a5b7766eba063e356285d761c9&amp;txTime=6785E2E5
-南昌都市✨阿星,https://live.nctv.net.cn/live/nctv2.flv?txSecret=be8b46a5fb549b6da29f199058803c6f&amp;txTime=6785E2E5
-南昌资讯✨阿星,https://live.nctv.net.cn/live/nctv3.flv?txSecret=81017a137d912f0c0115fd991dce00f2&amp;txTime=6785E2E5
+南昌新闻✨阿星,https://live.nctv.net.cn/live/nctv1.flv?txSecret=bd5435a5b7766eba063e356285d761c9&amp
+南昌都市✨阿星,https://live.nctv.net.cn/live/nctv2.flv?txSecret=be8b46a5fb549b6da29f199058803c6f&amp
+南昌资讯✨阿星,https://live.nctv.net.cn/live/nctv3.flv?txSecret=81017a137d912f0c0115fd991dce00f2&amp
 
-📺︎HK&TW-V4✨阿星维护,#genre#
+▶️HK&TW-V4✨阿星,#genre#
 TVB无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
