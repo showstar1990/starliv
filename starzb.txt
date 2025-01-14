@@ -1,6 +1,6 @@
 ▶️JXTV-V4✨阿星,#genre#
 江西卫视✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173683088996509&token=05bf3eac0e3763bf6b8535969ebaf073&uuid=0950830fd002
-江西都市✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173682360831914&token=864c26ee6e698be502c6b8fbc66dbbfa
+江西都市✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173683146966037&token=37214b350e8677c8bbe0dfcb7ff29705&uuid=0950830fd002
 经济生活✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=173682358933455&token=ea718bf319dce86852712ccfdd5464fd
 影视旅游✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&t=173682363637539&token=81a134f6594ded00a233675264bd477f
 公共农业✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?source=pc&t=173682366587738&token=3a3e8ded3fc8c921dba5e10f92290607
