@@ -1,12 +1,14 @@
 央视✨阿星维护,#genre#
-CCTV1✨阿星,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$阿星✨线路1
-CCTV1✨阿星,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$阿星✨线路2
-CCTV1✨阿星,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8$阿星✨线路3
-CCTV1✨阿星,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226016/2.m3u8$阿星✨线路4
-CCTV1✨阿星,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$阿星✨线路5
-CCTV1✨阿星,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8$阿星✨线路6
-CCTV1✨阿星,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8$阿星✨线路7
-CCTV1✨阿星,https://tvpull.careryun.com/tv/cctv1.m3u8$阿星✨线路8
+CCTV1✨阿星,https://ldncctvwbcdbd.a.bdydns.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100$阿星✨线路1
+CCTV1✨阿星,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8$阿星✨线路2
+CCTV1✨阿星,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$阿星✨线路3
+CCTV1✨阿星,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$阿星✨线路4
+CCTV1✨阿星,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8$阿星✨线路5
+CCTV1✨阿星,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226016/2.m3u8$阿星✨线路6
+CCTV1✨阿星,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$阿星✨线路7
+CCTV1✨阿星,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8$阿星✨线路8
+CCTV1✨阿星,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8$阿星✨线路9
+CCTV1✨阿星,https://tvpull.careryun.com/tv/cctv1.m3u8$阿星✨线路10
 
 CCTV2✨阿星,http://z.b.bkpcp.top/m.php?id=cctv2$阿星✨线路1
 CCTV2✨阿星,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8$阿星✨线路2
