@@ -45,6 +45,8 @@ CCTV4✨阿星,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/8
 CCTV4✨阿星,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$阿星✨线路11
 CCTV4✨阿星,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$阿星✨线路12
 CCTV4✨阿星,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8$阿星✨线路13
+CCTV4✨阿星,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078301.m3u8$阿星✨线路14
+CCTV4✨阿星,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8$阿星✨线路15
 
 CCTV5✨阿星,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv5$阿星✨线路1
 CCTV5✨阿星,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$阿星✨线路2
