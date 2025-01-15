@@ -174,7 +174,6 @@ CCTV4欧洲✨阿星,https://tvpull.careryun.com/tv/cctv4o.m3u8
 兵团卫视✨阿星,http://218.87.74.171:8008/udp/239.252.219.107:5140
 三沙卫视✨阿星,http://218.87.74.171:8008/udp/239.252.219.76:5140
 三沙卫视✨阿星,http://218.87.74.171:8008/udp/239.252.219.076:5140
-JPNews,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 
 ▶️JX✨阿星自制,#genre#
 江西新闻✨阿星,http://218.87.74.171:8008/udp/239.252.220.100:5140
@@ -323,6 +322,9 @@ BesTV✨阿星,http://218.87.74.171:8008/udp/239.252.220.084:5140
 RTHK33✨阿星,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34✨阿星,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35✨阿星,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+金庸武侠✨阿星,https://ali.hlspull.yximgs.com/live/moa117.flv
+台公视✨阿星,http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
+JPNews,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 翡翠台-1✨阿星,http://php.jdshipin.com/smt.php?id=Tvbjade
 翡翠台-2✨阿星,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台-2✨阿星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
