@@ -287,7 +287,7 @@ CMA天气✨阿星,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 延边卫视✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 CCTV1+,http://117.44.22.92:8688/udp/239.252.219.147:5140
-江西教育,http://59.55.252.222:6565/udp/239.252.219.147:5140
+江西教育,http://111.72.202.251:4050/udp/239.252.219.147:5140
 
 ▶️江囍✨阿星,#genre#
 江西卫视✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
