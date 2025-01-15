@@ -36,7 +36,7 @@ CCTV16✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?cha
 CCTV16_4K✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=ace
 
 CCTV17✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=ace
-
+CBN重温经典✨阿星,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CETV1✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=ace
 
 CETV2✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031201&livemode=1&stbId=ace
@@ -341,6 +341,16 @@ CMA天气✨阿星,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视✨阿星,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+RTHK33✨阿星,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34✨阿星,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35✨阿星,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+无线华丽✨阿星,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线翡翠✨阿星,http://php.jdshipin.com/smt.php?id=jade_twn
+无线翡翠✨阿星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+HOY TV✨阿星,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+澳门莲花✨阿星,http://php.jdshipin.com:8880/amlh.php
+环球电视✨阿星,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+HK新闻英✨阿星,http://61.221.215.25:8800/hls/51/index.m3u8
 环球电视台✨阿星,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 美亚C+✨阿星,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 TVB无线华丽✨阿星,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
