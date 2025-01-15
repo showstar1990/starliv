@@ -23,6 +23,7 @@ CETV1✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?chan
 CETV2✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031201&livemode=1&stbId=ace
 CETV4✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=ace
 CGTN✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=4810873738577663591&livemode=1&stbId=ace
+CCTV1综合✨阿星,http://182.110.170.114:4022/tsfile/live/0001_1.m3u8
 
 ▶️百事通卫士✨阿星,#genre#
 北京卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265011&livemode=1&stbId=ace
