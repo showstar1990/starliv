@@ -1,255 +1,110 @@
 ▶️百事通羊仕✨阿星,#genre#
 CCTV1✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=ace
-
 CCTV2✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=ace
-
 CCTV3✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=ace
-
 CCTV4✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=ace
-
 CCTV5✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265005&livemode=1&stbId=ace
-
 CCTV5+✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=ace
-
 CCTV6✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=ace
-
 CCTV7✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=ace
-
 CCTV8✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=ace
-
 CCTV9✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=ace
-
 CCTV10✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=ace
-
 CCTV11✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=ace
-
 CCTV12✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=ace
-
 CCTV13✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=ace
-
 CCTV14✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=ace
-
 CCTV15✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=ace
-
 CCTV16✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=ace
-
 CCTV16_4K✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=ace
-
 CCTV17✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=ace
 CBN重温经典✨阿星,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CETV1✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=ace
-
 CETV2✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031201&livemode=1&stbId=ace
-
 CETV4✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=ace
-
 CGTN✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=4810873738577663591&livemode=1&stbId=ace
 
 ▶️百事通卫士✨阿星,#genre#
-
 北京卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265011&livemode=1&stbId=ace
-
 东方卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265007&livemode=1&stbId=ace
-
-东南卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=ace
-
+东南卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=ac
 云南卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=ace
-
 吉林卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=ace
-
 四川卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=ace
-
 天津卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000030788&livemode=1&stbId=ace
-
 山东卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=ace
-
 广东卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=ace
-
 广西卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=ace
-
 江苏卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=ace
-
 江西卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=ace
-
 河北卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=ace
-
 河南卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=ace
-
 浙江卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=ace
-
 湖南卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000030452&livemode=1&stbId=ace
-
 湖北卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=ace
-
 深圳卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000024026&livemode=1&stbId=ace
-
 安徽卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=ace
-
 甘肃卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=ace
-
 辽宁卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=ace
-
 重庆卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=ace
-
 黑龙江卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000031107&livemode=1&stbId=ace
-
 贵州卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=ace
-
 青海卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=ace
-
 兵团卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=ace
-
 新疆卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=ace
-
 陕西卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=ace
-
 山西卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=ace
-
 厦门卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5084893189220221988&livemode=1&stbId=ace
-
 宁夏卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=ace
-
 安多卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=ace
-
 海南卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=ace
-
 三沙卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=ace
-
 西藏卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5381760837640571168&livemode=1&stbId=ace
-
 西藏藏语✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=ace
-
 内蒙古卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=7331079758781182663&livemode=1&stbId=ace
-
 康巴卫视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=ace
-
 
 ▶️百事通综合✨阿星,#genre#
 中国天气✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=ace
-
 东方影视✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=ace
-
 卡酷少儿✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265008&livemode=1&stbId=ace
-
 新闻综合✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=ace
-
 法治天地✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=ace
-
 东方财经✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=ace
-
 第一财经✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=ace
-
 乐游✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=ace
-
 动漫秀场✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=ace
-
 哈哈炫动✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=ace
-
 欢笑剧场✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=ace
-
 都市剧场✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=ace
-
 游戏风云✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=ace
-
 都市频道✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=ace
-
 金色学堂✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=ace
-
 劲爆体育✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=ace
-
 五星体育✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=ace
-
 魅力足球✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=ace
-
 财富天下✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031208&livemode=1&stbId=ace
-
 茶频道✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=ace
-
 快乐垂钓✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=ace
-
 金鹰纪实✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=ace
-
 金鹰卡通✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=ace
-
 嘉佳卡通✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=4739906347743456369&livemode=1&stbId=ace
-
 生活时尚✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=ace
-
 家庭理财✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031210&livemode=1&stbId=ace
-
 星光影院✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288013&livemode=1&stbId=ace
-
 谍战剧场✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288004&livemode=1&stbId=ace
-
 华语影院✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288005&livemode=1&stbId=ace
-
 全球大片✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288009&livemode=1&stbId=ace
-
 热门剧场✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288010&livemode=1&stbId=ace
-
 青春动漫✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=ace
-
 宝宝动画✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288002&livemode=1&stbId=ace
-
 电竞天堂✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=ace
-
 热门综艺✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=ace
-
 健康养生✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288006&livemode=1&stbId=ace
-
 戏曲精选✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288012&livemode=1&stbId=ace
-
 百变课堂✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288001&livemode=1&stbId=ace
-
 看天下精选✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000288007&livemode=1&stbId=ace
-
 纪实科教✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=ace
-
-百事通直播1✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=ace
-
-百事通直播2✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=ace
-
-百视通直播3✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=ace
-
-百事通直播4✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=ace
-
-百事通直播5✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=ace
-
-百视通直播6✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=ace
-
-百事通直播7✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=ace
-
-百事通直播8✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=ace
-
-百事通直播9✨阿星,http://[2409:8087:5e20:24::d]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=ace
-
-▶️羊狮✨阿星,#genre#
-CCTV1✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-CCTV5✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5+✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV6✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV11✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV12✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV13✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV14✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV15✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV16✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CBN重温经典✨阿星,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-CETV1教育①✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV2教育②✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV4职教✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CGTN纪录①✨阿星,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-CGTN纪录②✨阿星,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CIBN书画✨阿星,http://211.103.180.178:8233/live_hls/hdmi.m3u8
-CMA天气✨阿星,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 ▶️YS✨阿星自制,#genre#
 CCTV1✨阿星,http://117.44.22.92:8688/udp/239.252.219.200:5140
@@ -261,17 +116,17 @@ CCTV2✨阿星,http://117.44.22.92:8688/udp/239.252.219.011:5140
 CCTV3✨阿星,http://117.44.22.92:8688/udp/239.252.219.252:5140
 CCTV3✨阿星,http://117.44.22.92:8688/udp/239.252.220.193:5140
 CCTV3✨阿星,http://117.44.22.92:8688/udp/239.252.220.066:5140
-CCTV4✨阿星,http://117.44.22.92:8688/udp/239.252.220.244:5140
 CCTV4✨阿星,http://117.44.22.92:8688/udp/239.252.220.184:5140
+CCTV4✨阿星,http://117.44.22.92:8688/udp/239.252.220.244:5140
 CCTV4✨阿星,http://117.44.22.92:8688/udp/239.252.219.192:5140
 CCTV4✨阿星,http://117.44.22.92:8688/udp/239.252.219.193:5140
 CCTV4✨阿星,http://117.44.22.92:8688/udp/239.252.219.012:5140
 CCTV4K超高清✨阿星,http://117.44.22.92:8688/udp/239.252.220.244:5140
 CCTV4欧洲✨阿星,http://117.44.22.92:8688/udp/239.252.219.192:5140
 CCTV4美洲✨阿星,http://117.44.22.92:8688/udp/239.252.219.193:5140
-CCTV5✨阿星,http://117.44.22.92:8688/udp/239.252.220.067:5140
 CCTV5✨阿星,http://117.44.22.92:8688/udp/239.252.219.198:5140
 CCTV5✨阿星,http://117.44.22.92:8688/udp/239.252.219.236:5140
+CCTV5✨阿星,http://117.44.22.92:8688/udp/239.252.220.067:5140
 CCTV5+✨阿星,http://117.44.22.92:8688/udp/239.252.219.072:5140
 CCTV5+✨阿星,http://117.44.22.92:8688/udp/239.252.219.72:5140
 CCTV6✨阿星,http://117.44.22.92:8688/udp/239.252.220.195:5140
@@ -294,16 +149,17 @@ CCTV12✨阿星,http://117.44.22.92:8688/udp/239.252.220.187:5140
 CCTV12✨阿星,http://117.44.22.92:8688/udp/239.252.219.017:5140
 CCTV13✨阿星,http://117.44.22.92:8688/udp/239.252.219.139:5140
 CCTV13✨阿星,http://117.44.22.92:8688/udp/239.252.219.018:5140
-CCTV14✨阿星,http://117.44.22.92:8688/udp/239.252.220.092:5140
 CCTV14✨阿星,http://117.44.22.92:8688/udp/239.252.220.92:5140
+CCTV14✨阿星,http://117.44.22.92:8688/udp/239.252.220.092:5140
 CCTV14✨阿星,http://117.44.22.92:8688/udp/239.252.219.019:5140
-CCTV15✨阿星,http://117.44.22.92:8688/udp/239.252.219.079:5140
 CCTV15✨阿星,http://117.44.22.92:8688/udp/239.252.219.79:5140
+CCTV15✨阿星,http://117.44.22.92:8688/udp/239.252.219.079:5140
 CCTV15✨阿星,http://117.44.22.92:8688/udp/239.252.219.020:5140
 CCTV16✨阿星,http://117.44.22.92:8688/udp/239.252.220.237:5140
 CCTV16_4K✨阿星,http://117.44.22.92:8688/udp/239.252.220.237:5140
 CCTV17✨阿星,http://117.44.22.92:8688/udp/239.252.220.192:5140
 CCTV17✨阿星,http://117.44.22.92:8688/udp/239.252.220.191:5140
+CBN重温经典✨阿星,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CETV1✨阿星,http://117.44.22.92:8688/udp/239.252.220.198:5140
 CETV1✨阿星,http://117.44.22.92:8688/udp/239.252.219.108:5140
 CETV2✨阿星,http://117.44.22.92:8688/udp/239.252.219.073:5140
@@ -347,8 +203,8 @@ CCTV央视文化精品✨阿星,http://117.44.22.92:8688/udp/239.252.219.081:514
 广东卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.039:5140
 深圳卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.212:5140
 深圳卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.045:5140
-江西卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.063:5140
 江西卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.63:5140
+江西卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.063:5140
 江西卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.030:5140
 天津卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.061:5140
 天津卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.61:5140
@@ -362,16 +218,16 @@ CCTV央视文化精品✨阿星,http://117.44.22.92:8688/udp/239.252.219.081:514
 湖北卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.029:5140
 吉林卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.188:5140
 吉林卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.036:5140
-辽宁卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.035:5140
-辽宁卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.062:5140
 辽宁卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.62:5140
+辽宁卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.062:5140
+辽宁卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.035:5140
 黑龙江卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.211:5140
 黑龙江卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.037:5140
 重庆卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.094:5140
 重庆卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.94:5140
 重庆卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.031:5140
-四川卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.93:5140
 四川卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.093:5140
+四川卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.93:5140
 四川卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.032:5140
 山西卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.27:5140
 山西卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.027:5140
@@ -384,11 +240,10 @@ CCTV央视文化精品✨阿星,http://117.44.22.92:8688/udp/239.252.219.081:514
 贵州卫视✨阿星,http://117.44.22.92:8688/udp/239.252.220.190:5140
 贵州卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.041:5140
 陕西卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.105:5140
-陕西卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.105:5140
 甘肃卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.140:5140
 甘肃卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.110:5140
-云南卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.216:5140
 云南卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.185:5140
+云南卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.216:5140
 海南卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.178:5140
 海南卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.042:5140
 厦门卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.75:5140
@@ -407,28 +262,27 @@ CCTV央视文化精品✨阿星,http://117.44.22.92:8688/udp/239.252.219.081:514
 三沙卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.76:5140
 三沙卫视✨阿星,http://117.44.22.92:8688/udp/239.252.219.076:5140
 
-
 ▶️JX✨阿星自制,#genre#
-江西新闻✨阿星,http://117.44.22.92:8688/udp/239.252.220.103:5140
 江西新闻✨阿星,http://117.44.22.92:8688/udp/239.252.220.100:5140
-江西少儿✨阿星,http://117.44.22.92:8688/udp/239.252.220.111:5140
+江西新闻✨阿星,http://117.44.22.92:8688/udp/239.252.220.103:5140
 江西少儿✨阿星,http://117.44.22.92:8688/udp/239.252.219.113:5140
-江西教育✨阿星,http://117.44.22.92:8688/udp/239.252.219.147:5140
+江西少儿✨阿星,http://117.44.22.92:8688/udp/239.252.220.111:5140
 江西教育✨阿星,http://117.44.22.92:8688/udp/239.252.219.115:5140
-江西经济生活✨阿星,http://117.44.22.92:8688/udp/239.252.220.110:5140
+江西教育✨阿星,http://117.44.22.92:8688/udp/239.252.219.147:5140
 江西经济生活✨阿星,http://117.44.22.92:8688/udp/239.252.219.173:5140
-江西影视旅游✨阿星,http://117.44.22.92:8688/udp/239.252.220.101:5140
+江西经济生活✨阿星,http://117.44.22.92:8688/udp/239.252.220.110:5140
 江西影视旅游✨阿星,http://117.44.22.92:8688/udp/239.252.220.242:5140
-江西公共农业✨阿星,http://117.44.22.92:8688/udp/239.252.220.239:5140
+江西影视旅游✨阿星,http://117.44.22.92:8688/udp/239.252.220.101:5140
 江西公共农业✨阿星,http://117.44.22.92:8688/udp/239.252.220.102:5140
+江西公共农业✨阿星,http://117.44.22.92:8688/udp/239.252.220.239:5140
 江西都市✨阿星,http://117.44.22.92:8688/udp/239.252.220.238:5140
 江西都市✨阿星,http://117.44.22.92:8688/udp/239.252.220.109:5140
 江西都市✨阿星,http://117.44.22.92:8688/udp/239.252.220.238:5140
-都市剧场✨阿星,http://117.44.22.92:8688/udp/239.252.219.103:5140
-都市剧场✨阿星,http://117.44.22.92:8688/udp/239.252.219.225:5140
 江西移动电视✨阿星,http://117.44.22.92:8688/udp/239.252.220.241:5140
-风尚购物✨阿星,http://117.44.22.92:8688/udp/239.252.220.151:5140
+江西移动电视✨阿星,http://117.44.22.92:8688/udp/239.252.220.241:5140
+陶瓷✨阿星,http://117.44.22.92:8688/udp/239.252.220.243:5140
 风尚购物✨阿星,http://117.44.22.92:8688/udp/239.252.219.101:5140
+风尚购物✨阿星,http://117.44.22.92:8688/udp/239.252.220.151:5140
 昌飞航空✨阿星,http://117.44.22.92:8688/udp/239.252.220.047:5140
 江西党建✨阿星,http://117.44.22.92:8688/udp/239.252.220.060:5140
 南昌新闻综合✨阿星,http://117.44.22.92:8688/udp/239.252.220.247:5140
@@ -436,55 +290,116 @@ CCTV央视文化精品✨阿星,http://117.44.22.92:8688/udp/239.252.219.081:514
 南昌资讯✨阿星,http://117.44.22.92:8688/udp/239.252.220.249:5140
 瑞金新闻✨阿星,http://117.44.22.92:8688/udp/239.252.220.020:5140
 
+▶️少佴✨阿星自制,#genre#
+哈哈炫动✨阿星,http://117.44.22.92:8688/udp/239.252.219.043:5140
+动漫秀场✨阿星,http://117.44.22.92:8688/udp/239.252.219.059:5140
+新动漫✨阿星,http://117.44.22.92:8688/udp/239.252.220.132:5140
+金鹰卡通✨阿星,http://117.44.22.92:8688/udp/239.252.219.069:5140
+嘉佳卡通✨阿星,http://117.44.22.92:8688/udp/239.252.219.092:5140
+卡酷少儿✨阿星,http://117.44.22.92:8688/udp/239.252.220.246:5140
+卡酷少儿✨阿星,http://117.44.22.92:8688/udp/239.252.219.109:5140
+少儿动画✨阿星,http://117.44.22.92:8688/udp/239.252.220.136:5140
+动画✨阿星,http://117.44.22.92:8688/udp/239.252.219.165:5140
 
-▶️江囍✨阿星,#genre#
-江西卫视✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-江西卫视✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173686174996561&token=885f74c22bb9a9d3840578298d94aae0&uuid=0950830fd002
-江西都市✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173683146966037&token=37214b350e8677c8bbe0dfcb7ff29705&uuid=0950830fd002
-经济生活✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=173683995199145&token=3f6710ae5aa9d2cabea98176eb8fd1f1&uuid=0950830fd002
-影视旅游✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&t=173684002373048&token=6c1603e1929a9c9e2721397e5f1445cc&uuid=0950830fd002
-公共农业✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?source=pc&t=173684005728037&token=27453e39312ea531af6a826858c939b2&uuid=0950830fd002
-江西少儿✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?source=pc&t=173684007962433&token=821af48e6ae0c9bd94e6c66a146f4e7f&uuid=0950830fd002
-江西新闻✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&t=173684013019880&token=e102dbeea23d8b32d43e2f75ae722b3f&uuid=0950830fd002
-移动电视✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?source=pc&t=173684015752079&token=4a46a4b5fe69e0e9bb2e9d587aa6b987&uuid=0950830fd002
-江西陶瓷✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?source=pc&t=173684020056817&token=ceeba4849663d0c2c02c73bc74e25464&uuid=0950830fd002
-风尚购物✨阿星,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8?source=pc&t=173684023421789&token=5b48fc16ee00963c2f4a6c8f6887627e&uuid=0950830fd002
-九江庐山✨阿星,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
-九江新闻✨阿星,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8?t=1736824500&token=3c09b1bd4790714b96f82ecc182d1b2f
-九江公共✨阿星,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8?t=1736824447&token=a012e7114818fdc6f4f1983ed7454524
-九江教育✨阿星,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8?t=1736824560&token=9af5a4d17c0446139dd397383b67abd0
-萍乡新闻✨阿星,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
-萍乡公共✨阿星,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
-
-▶️新LV✨阿星,#genre#
-超级体育✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-哒啵赛事✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-黑莓电影✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-黑莓动画✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-睛彩广场舞✨阿星,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
-精品体育✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-怡伴健康✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-爱情喜剧✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-超级电视剧✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-超级电影✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级综艺✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-潮妈辣婆✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-东北热剧✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-动作电影✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-古装剧场✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-海外剧场✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-欢乐剧场✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-金牌综艺✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-精品大剧✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-精品纪录✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-精品萌宠✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-惊悚悬疑✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-军旅剧场✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-军事评论✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-明星大片✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-农业致富✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-武搏世界✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-中国功夫✨阿星,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+▶️休弦娱乐✨阿星自制,#genre#
+欢笑剧场4K✨阿星,http://117.44.22.92:8688/udp/239.252.219.224:5140
+城市剧场✨阿星,http://117.44.22.92:8688/udp/239.252.220.075:5140
+军旅剧场✨阿星,http://117.44.22.92:8688/udp/239.252.220.076:5140
+古装剧场✨阿星,http://117.44.22.92:8688/udp/239.252.220.077:5140
+喜剧影院✨阿星,http://117.44.22.92:8688/udp/239.252.220.079:5140
+动作影院✨阿星,http://117.44.22.92:8688/udp/239.252.220.085:5140
+家庭影院✨阿星,http://117.44.22.92:8688/udp/239.252.220.086:5140
+音乐现场✨阿星,http://117.44.22.92:8688/udp/239.252.220.087:5140
+武侠剧场✨阿星,http://117.44.22.92:8688/udp/239.252.220.088:5140
+都市剧场✨阿星,http://117.44.22.92:8688/udp/239.252.219.225:5140
+都市剧场✨阿星,http://117.44.22.92:8688/udp/239.252.219.103:5140
+热播剧场✨阿星,http://117.44.22.92:8688/udp/239.252.220.138:5140
+经典电影✨阿星,http://117.44.22.92:8688/udp/239.252.220.139:5140
+爱综艺✨阿星,http://117.44.22.92:8688/udp/239.252.220.140:5140
+爱体育✨阿星,http://117.44.22.92:8688/udp/239.252.220.141:5140
+爱电影✨阿星,http://117.44.22.92:8688/udp/239.252.220.142:5140
+爱大剧✨阿星,http://117.44.22.92:8688/udp/239.252.220.143:5140
+4K影院✨阿星,http://117.44.22.92:8688/udp/239.252.220.212:5140
+CHC影迷电影✨阿星,http://117.44.22.92:8688/udp/239.252.219.083:5140
+CHC家庭影院✨阿星,http://117.44.22.92:8688/udp/239.252.219.084:5140
+CHC动作电影✨阿星,http://117.44.22.92:8688/udp/239.252.219.085:5140
+IPTV收视指南✨阿星,http://117.44.22.92:8688/udp/239.252.220.144:5140
+IPTV谍战剧场✨阿星,http://117.44.22.92:8688/udp/239.252.220.145:5140
+IPTV相声小品✨阿星,http://117.44.22.92:8688/udp/239.252.220.146:5140
+IPTV野外✨阿星,http://117.44.22.92:8688/udp/239.252.220.073:5140
+IPTV法治✨阿星,http://117.44.22.92:8688/udp/239.252.220.074:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.091:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.111:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.112:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.117:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.129:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.130:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.131:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.132:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.133:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.135:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.136:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.137:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.138:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.203:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.204:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.205:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.218:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.219:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.219.221:5140
+BesTV✨阿星,http://117.44.22.92:8688/udp/239.252.220.084:5140
+生活时尚✨阿星,http://117.44.22.92:8688/udp/239.252.219.054:5140
+乐游✨阿星,http://117.44.22.92:8688/udp/239.252.219.055:5140
+法治天地✨阿星,http://117.44.22.92:8688/udp/239.252.219.056:5140
+东方财经✨阿星,http://117.44.22.92:8688/udp/239.252.219.057:5140
+游戏风云✨阿星,http://117.44.22.92:8688/udp/239.252.219.060:5140
+金色学堂✨阿星,http://117.44.22.92:8688/udp/239.252.219.063:5140
+书画✨阿星,http://117.44.22.92:8688/udp/239.252.219.099:5140
+环球奇观✨阿星,http://117.44.22.92:8688/udp/239.252.219.118:5140
+乐游✨阿星,http://117.44.22.92:8688/udp/239.252.219.141:5140
+中国天气✨阿星,http://117.44.22.92:8688/udp/239.252.219.143:5140
+证券服务✨阿星,http://117.44.22.92:8688/udp/239.252.219.144:5140
+精选✨阿星,http://117.44.22.92:8688/udp/239.252.219.161:5140
+国学✨阿星,http://117.44.22.92:8688/udp/239.252.219.162:5140
+戏曲✨阿星,http://117.44.22.92:8688/udp/239.252.219.163:5140
+早教✨阿星,http://117.44.22.92:8688/udp/239.252.219.164:5140
+鉴赏✨阿星,http://117.44.22.92:8688/udp/239.252.219.166:5140
+墨宝✨阿星,http://117.44.22.92:8688/udp/239.252.219.168:5140
+先锋乒羽✨阿星,http://117.44.22.92:8688/udp/239.252.219.184:5140
+爱生活✨阿星,http://117.44.22.92:8688/udp/239.252.220.089:5140
+好学生✨阿星,http://117.44.22.92:8688/udp/239.252.220.090:5140
+环球奇观✨阿星,http://117.44.22.92:8688/udp/239.252.220.135:5140
+魅力时尚✨阿星,http://117.44.22.92:8688/udp/239.252.220.137:5140
+央广购物✨阿星,http://117.44.22.92:8688/udp/239.252.220.147:5140
+金鹰纪实✨阿星,http://117.44.22.92:8688/udp/239.252.220.155:5140
+国学频道✨阿星,http://117.44.22.92:8688/udp/239.252.220.157:5140
+文物宝库✨阿星,http://117.44.22.92:8688/udp/239.252.220.158:5140
+茶频道✨阿星,http://117.44.22.92:8688/udp/239.252.220.160:5140
+快乐购✨阿星,http://117.44.22.92:8688/udp/239.252.220.164:5140
+快乐垂钓✨阿星,http://117.44.22.92:8688/udp/239.252.220.177:5140
+梨园频道✨阿星,http://117.44.22.92:8688/udp/239.252.220.179:5140
+武术世界✨阿星,http://117.44.22.92:8688/udp/239.252.220.180:5140
+汽摩✨阿星,http://117.44.22.92:8688/udp/239.252.220.181:5140
+光影✨阿星,http://117.44.22.92:8688/udp/239.252.220.200:5140
+台球✨阿星,http://117.44.22.92:8688/udp/239.252.220.201:5140
+美人✨阿星,http://117.44.22.92:8688/udp/239.252.220.202:5140
+武术✨阿星,http://117.44.22.92:8688/udp/239.252.220.203:5140
+高网✨阿星,http://117.44.22.92:8688/udp/239.252.220.204:5140
+足球✨阿星,http://117.44.22.92:8688/udp/239.252.220.205:5140
+军事✨阿星,http://117.44.22.92:8688/udp/239.252.220.206:5140
+地理✨阿星,http://117.44.22.92:8688/udp/239.252.220.207:5140
+美妆✨阿星,http://117.44.22.92:8688/udp/239.252.220.208:5140
+解密✨阿星,http://117.44.22.92:8688/udp/239.252.220.209:5140
+星影✨阿星,http://117.44.22.92:8688/udp/239.252.220.210:5140
+爱体育✨阿星,http://117.44.22.92:8688/udp/239.252.220.211:5140
+四海钓鱼✨阿星,http://117.44.22.92:8688/udp/239.252.220.214:5140
+车迷频道✨阿星,http://117.44.22.92:8688/udp/239.252.220.215:5140
+生态环境✨阿星,http://117.44.22.92:8688/udp/239.252.220.216:5140
+家庭理财✨阿星,http://117.44.22.92:8688/udp/239.252.220.217:5140
+环球旅游✨阿星,http://117.44.22.92:8688/udp/239.252.220.218:5140
+优优宝贝✨阿星,http://117.44.22.92:8688/udp/239.252.220.219:5140
+财富天下✨阿星,http://117.44.22.92:8688/udp/239.252.220.240:5140
+纪实科教✨阿星,http://117.44.22.92:8688/udp/239.252.220.245:5140
 
 ▶️岗泰✨阿星,#genre#
 香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
@@ -599,110 +514,3 @@ CCTV17✨阿星,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u
 云南卫视✨阿星,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=15000776628606995758
 云南卫视✨阿星,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=8984720984732853831
 浙江卫视✨阿星,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383
-
-江电,#genre#
-江西卫视, http://gzly.softether.net:6005/udp/239.252.220.63:5140
-江西二套, http://gzly.softether.net:6005/udp/239.252.220.238:5140
-江西三套, http://gzly.softether.net:6005/udp/239.252.219.173:5140
-江西五套, http://gzly.softether.net:6005/udp/239.252.220.102:5140
-江西六套, http://gzly.softether.net:6005/udp/239.252.219.113:5140
-江西七套, http://gzly.softether.net:6005/udp/239.252.220.100:5140
-江西教育, http://gzly.softether.net:6005/udp/239.252.219.115:5140
-CCTV1, http://gzly.softether.net:6005/udp/239.252.219.200:5140
-CCTV2, http://gzly.softether.net:6005/udp/239.252.220.183:5140
-CCTV3, http://gzly.softether.net:6005/udp/239.252.219.252:5140
-CCTV3, http://gzly.softether.net:6005/udp/239.252.220.193:5140
-CCTV4, http://gzly.softether.net:6005/udp/239.252.220.184:5140
-CCTV5, http://gzly.softether.net:6005/udp/239.252.219.198:5140
-CCTV5, http://gzly.softether.net:6005/udp/239.252.219.236:5140
-CCTV5+, http://gzly.softether.net:6005/udp/239.252.219.72:5140
-CCTV6, http://gzly.softether.net:6005/udp/239.252.219.237:5140
-CCTV6, http://gzly.softether.net:6005/udp/239.252.220.195:5140
-CCTV7, http://gzly.softether.net:6005/udp/239.252.220.185:5140
-CCTV8, http://gzly.softether.net:6005/udp/239.252.219.253:5140
-CCTV8, http://gzly.softether.net:6005/udp/239.252.220.196:5140
-CCTV9, http://gzly.softether.net:6005/udp/239.252.220.186:5140
-CCTV10, http://gzly.softether.net:6005/udp/239.252.220.91:5140
-CCTV11, http://gzly.softether.net:6005/udp/239.252.219.78:5140
-CCTV12, http://gzly.softether.net:6005/udp/239.252.220.187:5140
-CCTV13, http://gzly.softether.net:6005/udp/239.252.219.139:5140
-CCTV14, http://gzly.softether.net:6005/udp/239.252.220.92:5140
-CCTV15, http://gzly.softether.net:6005/udp/239.252.219.79:5140
-CCTV17, http://gzly.softether.net:6005/udp/239.252.220.192:5140
-奥林匹克-4K, http://gzly.softether.net:6005/udp/239.252.220.237:5140
-百视通台-4K, http://gzly.softether.net:6005/udp/239.252.220.235:5140
-百视通台-4K, http://gzly.softether.net:6005/udp/239.252.220.236:5140
-电影测试-4K, http://gzly.softether.net:6005/udp/239.252.220.212:5140
-CCTV4欧洲, http://gzly.softether.net:6005/udp/239.252.219.192:5140
-CCTV4美洲, http://gzly.softether.net:6005/udp/239.252.219.193:5140
-CGTN英语, http://gzly.softether.net:6005/udp/239.252.219.194:5140
-CGTN记录, http://gzly.softether.net:6005/udp/239.252.219.195:5140
-CGTN西语, http://gzly.softether.net:6005/udp/239.252.219.196:5140
-CGTN法语, http://gzly.softether.net:6005/udp/239.252.219.65:5140
-CGTN俄语, http://gzly.softether.net:6005/udp/239.252.219.67:5140
-CGTN阿语, http://gzly.softether.net:6005/udp/239.252.219.66:5140
-央视精品, http://gzly.softether.net:6005/udp/239.252.219.81:5140
-央视台球, http://gzly.softether.net:6005/udp/239.252.219.80:5140
-风云音乐, http://gzly.softether.net:6005/udp/239.252.219.87:5140
-第一剧场, http://gzly.softether.net:6005/udp/239.252.219.86:5140
-风云剧场, http://gzly.softether.net:6005/udp/239.252.219.89:5140
-怀旧剧场, http://gzly.softether.net:6005/udp/239.252.219.90:5140
-女性时尚, http://gzly.softether.net:6005/udp/239.252.219.94:5140
-央视网球, http://gzly.softether.net:6005/udp/239.252.219.95:5140
-风云足球, http://gzly.softether.net:6005/udp/239.252.219.96:5140
-电视指南, http://gzly.softether.net:6005/udp/239.252.219.97:5140
-世界地理, http://gzly.softether.net:6005/udp/239.252.219.93:5140
-兵器科技, http://gzly.softether.net:6005/udp/239.252.219.98:5140
-CHC高清电影, http://gzly.softether.net:6005/udp/239.252.219.83:5140
-CHC家庭影院, http://gzly.softether.net:6005/udp/239.252.219.84:5140
-CHC动作电影, http://gzly.softether.net:6005/udp/239.252.219.85:5140
-欢笑剧场, http://gzly.softether.net:6005/udp/239.252.219.224:5140
-都市剧场, http://gzly.softether.net:6005/udp/239.252.219.225:5140
-精彩影视, http://gzly.softether.net:6005/udp/239.252.220.223:5140
-梨园频道, http://gzly.softether.net:6005/udp/239.252.220.179:5140
-武术世界, http://gzly.softether.net:6005/udp/239.252.220.180:5140
-文物宝库, http://gzly.softether.net:6005/udp/239.252.220.158:5140
-求索记录, http://gzly.softether.net:6005/udp/239.252.220.224:5140
-BesTV青春动漫, http://gzly.softether.net:6005/udp/239.252.220.122:5140
-BesTV百变课堂, http://gzly.softether.net:6005/udp/239.252.220.123:5140
-BesTV热门剧场, http://gzly.softether.net:6005/udp/239.252.220.124:5140
-BesTV谍战剧场, http://gzly.softether.net:6005/udp/239.252.220.125:5140
-BesTV华语影院, http://gzly.softether.net:6005/udp/239.252.220.126:5140
-BesTV星光影院, http://gzly.softether.net:6005/udp/239.252.220.127:5140
-BesTV全球大片, http://gzly.softether.net:6005/udp/239.252.220.128:5140
-BesTV健康养生, http://gzly.softether.net:6005/udp/239.252.220.129:5140
-甘肃卫视, http://gzly.softether.net:6005/udp/239.252.219.140:5140
-海南卫视, http://gzly.softether.net:6005/udp/239.252.219.178:5140
-广西卫视, http://gzly.softether.net:6005/udp/239.252.219.183:5140
-云南卫视, http://gzly.softether.net:6005/udp/239.252.219.185:5140
-天津卫视, http://gzly.softether.net:6005/udp/239.252.219.187:5140
-天津卫视, http://gzly.softether.net:6005/udp/239.252.220.61:5140
-湖南卫视, http://gzly.softether.net:6005/udp/239.252.219.201:5140
-北京卫视, http://gzly.softether.net:6005/udp/239.252.219.206:5140
-湖北卫视, http://gzly.softether.net:6005/udp/239.252.219.208:5140
-浙江卫视, http://gzly.softether.net:6005/udp/239.252.219.210:5140
-黑龙江卫视, http://gzly.softether.net:6005/udp/239.252.219.211:5140
-深圳卫视, http://gzly.softether.net:6005/udp/239.252.219.212:5140
-广东卫视, http://gzly.softether.net:6005/udp/239.252.219.213:5140
-江苏卫视, http://gzly.softether.net:6005/udp/239.252.219.214:5140
-山东卫视, http://gzly.softether.net:6005/udp/239.252.219.228:5140
-东方卫视, http://gzly.softether.net:6005/udp/239.252.219.229:5140
-辽宁卫视, http://gzly.softether.net:6005/udp/239.252.220.62:5140
-江西卫视, http://gzly.softether.net:6005/udp/239.252.220.63:5140
-东南卫视, http://gzly.softether.net:6005/udp/239.252.220.82:5140
-安徽卫视, http://gzly.softether.net:6005/udp/239.252.220.83:5140
-四川卫视, http://gzly.softether.net:6005/udp/239.252.220.93:5140
-重庆卫视, http://gzly.softether.net:6005/udp/239.252.220.94:5140
-河北卫视, http://gzly.softether.net:6005/udp/239.252.220.154:5140
-吉林卫视, http://gzly.softether.net:6005/udp/239.252.220.188:5140
-贵州卫视, http://gzly.softether.net:6005/udp/239.252.220.190:5140
-河南卫视, http://gzly.softether.net:6005/udp/239.252.220.189:5140
-中国教育, http://gzly.softether.net:6005/udp/239.252.220.198:5140
-上海纪实, http://gzly.softether.net:6005/udp/239.252.219.227:5140
-金鹰纪实, http://gzly.softether.net:6005/udp/239.252.220.155:5140
-东方财经, http://gzly.softether.net:6005/udp/239.252.219.57:5140
-茶频道台, http://gzly.softether.net:6005/udp/239.252.220.160:5140
-快乐垂钓, http://gzly.softether.net:6005/udp/239.252.220.177:5140
-IPTV体育, http://gzly.softether.net:6005/udp/239.252.220.211:5140
-昌飞航空, http://gzly.softether.net:6005/udp/239.252.220.47:5140
-风尚购物, http://gzly.softether.net:6005/udp/239.252.219.101:5140
