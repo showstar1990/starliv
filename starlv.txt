@@ -97,6 +97,9 @@ CCTV15✨阿星,https://tvpull.careryun.com/tv/cctv15.m3u8
 CCTV17✨阿星,https://tvpull.careryun.com/tv/cctv17.m3u8
 CCTV4美洲✨阿星,https://tvpull.careryun.com/tv/cctv4m.m3u8
 CCTV4欧洲✨阿星,https://tvpull.careryun.com/tv/cctv4o.m3u8
+东方卫视HD1,http://218.64.94.142:8084/rtp/239.252.219.229:5140
+东方卫视HD2,http://218.64.94.142:8084/udp/239.252.219.229:5140
+东方卫视yt,http://111.72.202.251:4050/rtp/239.252.219.229:5140
 
 ▶️WS✨阿星自制,#genre#
 湖南卫视✨阿星,http://218.87.74.171:8008/udp/239.252.219.201:5140
