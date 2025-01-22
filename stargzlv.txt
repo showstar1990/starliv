@@ -83,6 +83,47 @@ CCTV17✨阿星,http://182.87.111.25:8688/rtp/239.252.220.192:5140
 嘉佳卡通✨阿星,http://182.87.111.25:8688/rtp/239.252.219.92:5140
 动画✨阿星,http://182.87.111.25:8688/rtp/239.252.219.165:5140
 
+📺️港台✨阿星▶️,#genre#
+香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视✨阿星,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+凤凰中文✨阿星,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰资讯✨阿星,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+RTHK33✨阿星,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34✨阿星,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35✨阿星,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+金庸武侠✨阿星,http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
+翡翠台-1✨阿星,http://php.jdshipin.com/smt.php?id=Tvbjade
+翡翠台-2✨阿星,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台-2✨阿星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+HOY77✨阿星,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+澳门莲花✨阿星,http://php.jdshipin.com:8880/amlh.php
+HK新闻英✨阿星,http://61.221.215.25:8800/hls/51/index.m3u8
+环球电视台✨阿星,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+美亚C+✨阿星,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+翡翠台-3✨阿星,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+TVB无线功夫✨阿星,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+八大综合✨阿星,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv039
+中天娱乐✨阿星,http://61.221.215.25:8800/hls/47/index.m3u8
+民视✨阿星,https://ali.hlspull.yximgs.com/live/moa33.flv
+民视✨阿星,https://ali.hlspull.yximgs.com/live/moa17.flv
+中天亚洲✨阿星,http://extraott.com/live/6772191932/1654508883/29615.m3u8
+日本ews,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+环宇新闻,https://ali.hlspull.yximgs.com/live/moa25.flv
+香港贺岁片✨阿星,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.flv
+香港片✨阿星,http://182.40.120.183/test-txdwk.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.flv
+五福星电影,http://182.40.120.171/test-txdwk.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.flv
+美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&amp;ct=18392&amp;tsum=3f73f541d33abe71140d28ada99a071b
+科幻电影,http://182.40.120.183/test-txdwk.flv.huya.com/src/1239543153989-1239543153989-11135015135096078336-2479086431434-10057-A-0-1.flv
+好莱坞电影✨阿星,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&amp;ct=19211&amp;tsum=c0bc00f05a03eb1bef16741e9fd9737e
+好莱坞电影✨阿星,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&amp;ct=18392&amp;tsum=a1f1517d4ea64fd01267905f21d83859
+大爱1台✨阿星,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2台✨阿星,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+HK佛陀✨佛教,http://live.jingzong.org/live/hd/playlist.m3u8
+华藏TV✨佛教,https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+生命TV✨佛教,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+
 
 📺️影剧场✨阿星▶️,#genre#
 武侠剧场✨阿星,http://182.87.111.25:8688/rtp/239.252.220.88:5140
