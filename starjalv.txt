@@ -127,6 +127,115 @@ CHC动作电影✨阿星,http://59.55.255.104:6565/rtp/239.252.219.85:5140
 生活时尚✨阿星,http://59.55.255.104:6565/rtp/239.252.219.54:5140
 金色频道✨阿星,http://59.55.255.104:6565/rtp/239.252.219.63:5140
 
+📺️港台✨阿星▶️,#genre#
+香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视✨阿星,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+金庸武侠✨阿星,http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
+星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+RTHK33✨阿星,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34✨阿星,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35✨阿星,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+翡翠台-1✨阿星,http://php.jdshipin.com/smt.php?id=Tvbjade
+翡翠台-2✨阿星,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台-2✨阿星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台-3✨阿星,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+澳门莲花✨阿星,http://php.jdshipin.com:8880/amlh.php
+八大精彩台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv034
+八大綜藝台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv039
+中視✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv040
+華視✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv041
+民視台灣台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv001
+民視第一台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv003
+民視綜藝台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv004
+豬哥亮歌廳秀✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv006
+中天新聞台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv009
+非凡新聞台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv010
+影迷數位電影台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv011
+視納華仁紀實頻道✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv013
+時尚運動X✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv014
+達文西頻道✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv018
+公視戲劇✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv042
+客家電視台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv043
+日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+靖天卡通台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv044
+靖洋戲劇台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv045
+靖天綜合台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv046
+靖天日本台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv047
+非凡商業台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv048
+采昌影劇台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv049
+台視新聞✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv051
+華視新聞✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv052
+GINX Esports TV✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv053
+Nice TV靖天歡樂台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv054
+靖天映畫✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv055
+台視財經✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv056
+靖洋卡通Nice Bingo✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv057
+靖天戲劇台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv058
+CLASSICA 古典樂✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv059
+靖天電影台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv061
+靖天育樂台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv062
+KLT-靖天國際台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv063
+中視菁采台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv064
+靖天資訊台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv065
+台視✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv066
+TVBS精采台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv067
+TVBS歡樂台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv068
+愛爾達娛樂台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv070
+TVBS新聞✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv072
+TVBS✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv073
+中視新聞✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv074
+CATCHPLAY電影台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv076
+TRACE Sport Stars✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv077
+ARIRANG阿里郎頻道✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv079
+中視經典台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv080
+TRACE Urban✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv082
+Mezzo Live HD✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv083
+國會頻道1台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv084
+國會頻道2台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv085
+智林體育台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv101
+東森購物1台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv102
+東森購物2台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv103
+第1商業台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv104
+中天亞洲台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv109
+東森新聞台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv152
+東森財經新聞台✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv153
+民視✨阿星,http://4gtv.031966.xyz/?id=4gtv-4gtv155
+VOA美國之音✨阿星,http://4gtv.031966.xyz/?id=litv-ftv03
+民視旅遊台✨阿星,http://4gtv.031966.xyz/?id=litv-ftv07
+民視影劇台✨阿星,http://4gtv.031966.xyz/?id=litv-ftv09
+半島國際新聞台✨阿星,http://4gtv.031966.xyz/?id=litv-ftv10
+民視新聞台✨阿星,http://4gtv.031966.xyz/?id=litv-ftv13
+i-Fun動漫台✨阿星,http://4gtv.031966.xyz/?id=litv-ftv15
+好消息✨阿星,http://4gtv.031966.xyz/?id=litv-ftv16
+好消息2台✨阿星,http://4gtv.031966.xyz/?id=litv-ftv17
+龍華卡通台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn01
+龍華電影台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn03
+博斯魅力台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn04
+博斯高球台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn05
+博斯高球二台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn06
+博斯運動一台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn07
+博斯運動二台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn08
+博斯網球台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn09
+博斯無限台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn10
+龍華日韓台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn11
+龍華偶像台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn12
+博斯無限二台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn13
+寰宇新聞台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn14
+寰宇新聞台灣台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn15
+亞洲旅遊台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn17
+龍華戲劇台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn18
+Smart知識台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn19
+ELTV生活英語台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn20
+龍華經典台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn21
+台灣戲劇台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn22
+寰宇財經台✨阿星,http://4gtv.031966.xyz/?id=litv-longturn23
+大爱1台✨阿星,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2台✨阿星,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+HK佛陀✨佛教,http://live.jingzong.org/live/hd/playlist.m3u8
+华藏TV✨佛教,https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+生命TV✨佛教,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+
 📺️MGF羊✨阿星▶️,#genre#
 CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=74d5e9b85f3db81cfd9687177864cbf5f4529b48feda0ebd4470cba9b12c7b8d5908d14116237050006fbe8653a842b63f7a3dd7517b19f63a10f560f4861cd7808ec4eee11edc6c60485e3cb1
 CCTV2,https://www.freetv.top/migu/631780532.m3u8?migutoken=a951fd3bcb427151e4a5dbcc0666b4eaeed98a11c81d1d2d1394598c59354057826e751bed736f826720e0b355fc8250907504ea668a9f6bdc9fc5dfde50d3b0c79758f643be42a401810a05bc
