@@ -150,7 +150,7 @@ HK佛陀✨佛教,http://live.jingzong.org/live/hd/playlist.m3u8
 华藏TV✨佛教,https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 生命TV✨佛教,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 
-📺️MGF羊✨阿星▶️,#genre#
+📺️MGF羊✨阿星备用1▶️,#genre#
 CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=74d5e9b85f3db81cfd9687177864cbf5f4529b48feda0ebd4470cba9b12c7b8d5908d14116237050006fbe8653a842b63f7a3dd7517b19f63a10f560f4861cd7808ec4eee11edc6c60485e3cb1
 CCTV2,https://www.freetv.top/migu/631780532.m3u8?migutoken=a951fd3bcb427151e4a5dbcc0666b4eaeed98a11c81d1d2d1394598c59354057826e751bed736f826720e0b355fc8250907504ea668a9f6bdc9fc5dfde50d3b0c79758f643be42a401810a05bc
 CCTV3,https://www.freetv.top/migu/624878271.m3u8?migutoken=b7f7f6b0b6cea5d65a4fbdeff336590780e57923e5aae8dbdbd8bf45b2d53f15c30b936c54174ca38e37971336d65a29a5aea03d178dd5068e7d7b1838d50175cbbb8f054f40848ffd3c2346e1
@@ -204,3 +204,149 @@ NBA经典,https://www.freetv.top/migu/788815380.m3u8?migutoken=42bc21dc33e64ca50
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=ad8a84362ba928c4f08760e6cade32189813c6ee774040b23585d6c8006b6227901b42e7352068296b91aa1b61cee3e56739b2ccb47dae5e2e5cabd824df9c07008258a99158e267928a6f33be
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=d9052dda87dcf5e87fb274379e604b32ccab0d2ed55a53e7fb0f2b8fbbcb20b2e83b5c5d6e2d61d98d38ed43862cada3bc76d27470f8dd8159ff58dfbd202d9231db5d5c1bd9e282aca628f53f
 南方影视,https://www.freetv.top/migu/614961829.m3u8?migutoken=f5d8aaafa898fc0c1014e355d83f02607f967e0b91e2a82ac489b30ea75e818183f59492159cba5517269a6c413d48458c12911d30f19f28cf48c64db9c6d8cb0f174a8598a4b374191bd65db5
+
+📺️医工✨阿星备用2▶️,#genre#
+CCTV1✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv1avs
+CCTV3✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv3avs
+CCTV4K✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv4k
+CCTV5✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv5avs
+CCTV16✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv164k
+纯享4K✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cx4k
+CCTV1✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv1
+CCTV2✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv2
+CCTV3✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv3
+CCTV4✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv4
+CCTV5✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv5
+CCTV5+✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv5p
+CCTV6✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv6
+CCTV6✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv6avs
+CCTV7✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv7
+CCTV8✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv8
+CCTV8✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv8avs
+CCTV9✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv9
+CCTV10✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv10
+CCTV11✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv11
+CCTV12✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv12
+CCTV13✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv13
+CCTV14✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv14
+CCTV15✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv15
+CCTV16✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv16
+CCTV17✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv17
+CETV1✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cetv1
+CETV2✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cetv2
+CETV3✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cetv3
+CETV4✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cetv4
+CCTV第一剧场✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=dyjc
+CCTV央视台球✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=ystq
+CCTV世界地理✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=sjdl
+CCTV兵器科技✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=bqkj
+CCTV央视文化✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=yswh
+CCTV女性时尚✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=nxss
+CCTV怀旧剧场✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=hjjc
+CCTV电视指南✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=dszn
+CCTV风云剧场✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=fyjc
+CCTV风云足球✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=fyzq
+CCTV风云音乐✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=fyyy
+CCTV高尔网球✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=gefwq
+
+重庆卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cqws
+江苏卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsws
+浙江卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=zjws
+东方卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=dfws
+深圳卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=szws
+北京卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=bjws
+山东卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=sdws
+天津卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=tjws
+贵州卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=gzws
+四川卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=scws
+云南卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=ynws
+广西卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=gxws
+黑龙江卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=hljws
+安徽卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=ahws
+山西卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=sxws
+江西卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jxws
+湖北卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=hbtv
+旅游卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=lyws
+陕西卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=ssxws
+东南卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=dnws
+吉林卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jlws
+辽宁卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=lnws
+内蒙古卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=nmgws
+湖南卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=hntv
+广东卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=gdws
+河南卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=hnws
+河北卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=hbws
+宁夏卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=nxws
+甘肃卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=gsws
+青海卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=qhws
+新疆卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xjws
+西藏卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xzws
+兵团卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=btws
+农林卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=nlws
+厦门卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xmws
+康巴卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=kbws
+延边卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=ybws
+安多卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=adws
+
+📺️CIPTV✨阿星备用3▶️,#genre#
+CCTV1✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-1-AVS-4K264.m3u8$4K
+CCTV2✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-2-HD-265-8M.m3u8
+CCTV3✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-3-AVS-4K264.m3u8$4K
+CCTV4✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-4-HD-265-8M.m3u8
+CCTV5✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-5-AVS-4K264.m3u8$4K
+CCTV5+✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-5PLUS-HD-265-8M.m3u8
+CCTV6✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-6-AVS-4K264.m3u8
+CCTV7✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-7-HD-265-8M.m3u8
+CCTV8✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-8-AVS-4K264.m3u8
+CCTV9✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-9-HQ.m3u8
+CCTV10✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-10-HD-265-8M.m3u8
+CCTV11✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=H265-5500k-1080P-CCTV11.m3u8
+CCTV12✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-12-HD-265-8M.m3u8
+CCTV13✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-13-HQ.m3u8
+CCTV14✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-14-CQ.m3u8
+CCTV15✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=H265-5500k-1080P-CCTV15.m3u8
+CCTV16✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-16-CQ.m3u8
+CCTV16✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-16-4K.m3u8$4K
+CCTV17✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-17-CQ.m3u8
+CCTV-4k✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-4K-HD.m3u8$4K
+风云音乐✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_FENGYUNYY-CQ.m3u8
+风云足球✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_FENGSHANGZQ-CQ.m3u8
+世界地理✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SHIJIEDL-CQ.m3u8
+风云剧场✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_FENGYUNJC-CQ.m3u8
+兵器科技✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_BINGQIKJ-CQ.m3u8
+央视台球✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_TAIQIU-CQ.m3u8
+高尔夫网球✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-GOLF-CQ.m3u8
+女性时尚✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_NVXINGSS-CQ.m3u8
+电视指南✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_DIANSHIZN-CQ.m3u8
+第一剧场✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_DIYIJC-CQ.m3u8
+怀旧剧场✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HUAIJIUJC-CQ.m3u8
+文化精品✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-WENHUA-CQ.m3u8
+CETV早期教育✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CETV-ZQJY-CQ.m3u8
+
+贵州卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_GUIZHOU-CQ.m3u8
+湖南卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HUNAN-HD-265-8M.m3u8
+江苏卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_JIANGSU-HD-265-8M.m3u8
+东方卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_DONGFANG-HD-265-8M.m3u8
+北京卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_BEIJING-HD-265-8M.m3u8
+广东卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_GUANGDONG-HD-265-8M.m3u8
+山东卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SHANDONG-HD-265-8M.m3u8
+深圳卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SHENZHEN-HD-265-8M.m3u8
+湖北卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HUBEI-HD-265-8M.m3u8
+浙江卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_ZHEJIANG-HD-265-8M.m3u8
+黑龙江卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HEILONGJIANG-HD-265-8M.m3u8
+天津卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_TIANJIN-HD-265-8M.m3u8
+安徽卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_ANHUI-HD-265-8M.m3u8
+辽宁卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_LIAONING-HD-265-8M.m3u8
+东南卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=H265-5500k-1080P-dongnanstv.m3u8
+吉林卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_JILIN-CQ.m3u8
+四川卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SICHUAN-CQ.m3u8
+江西卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_JIANGXI-CQ.m3u8
+河北卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HEBEI-CQ.m3u8
+河南卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HENAN-CQ.m3u8
+重庆卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CHONGQING-CQ.m3u8
+云南卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_YUNNAN-HQ.m3u8
+三沙卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SANSHA-HQ.m3u8
+海南卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=HD-8000k-1080P-lvyoustv.m3u8
+凤凰中文✨阿星,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8
+凤凰资讯✨阿星,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8
+凤凰香港✨阿星,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
