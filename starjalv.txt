@@ -138,6 +138,20 @@ JP新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 RTHK33✨阿星,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34✨阿星,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35✨阿星,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+TVBJ1✨阿星,http://cdn3.132.us.kg/live/j1/stream.m3u8
+TVBJ2✨阿星,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+耀才财经✨阿星,http://202.69.67.66:443/webcast/bshdlivepc/playlist.m3u8
+番薯台✨阿星,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+大立电视✨阿星,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+TVB娱乐新闻✨阿星,http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
+TVB无线新闻✨阿星,http://ali.hlspull.yximgs.com/live/d2331250dd26e1f49447324dcd5b7c68.flv
+TVB无线星河✨阿星,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB翡翠✨阿星,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB翡翠✨阿星,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+TVB翡翠4k✨阿星,http://cdn.132.us.kg/live/fct4k/stream.m3u8
+澳视澳门✨阿星,http://cdn.132.us.kg/live/asam/stream.m3u8
+澳亚卫视✨阿星,http://cdn.132.us.kg/live/as/stream.m3u8
+莲华卫视✨阿星,http://php.jdshipin.com:8880/amlh.php
 翡翠台-1✨阿星,http://php.jdshipin.com/smt.php?id=Tvbjade
 翡翠台-2✨阿星,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台-2✨阿星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -321,7 +335,7 @@ CETV4✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3
 中国教育4台✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
 CGTN✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtgAPxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd%2CEND
 
-
+湖南卫视✨阿星,http://cc2022.ifengli.com:2000/live/hnwshd/2500.m3u8?innersid=2025
 北京卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 江苏卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
@@ -354,6 +368,8 @@ CGTN✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u
 西藏卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 延边卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 康巴卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
+兵团卫视✨阿星,http://cc2022.ifengli.com:2000/live/btwssd/1500.m3u8?innersid=2025
+香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 浙江少儿✨阿星,https://aliml.cztv.com/channels/lantian/channel008/1080p.m3u8
