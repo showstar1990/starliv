@@ -140,18 +140,12 @@ RTHK34✨阿星,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/st
 RTHK35✨阿星,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 TVBJ1✨阿星,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVBJ2✨阿星,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-耀才财经✨阿星,http://202.69.67.66:443/webcast/bshdlivepc/playlist.m3u8
 番薯台✨阿星,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 大立电视✨阿星,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-TVB娱乐新闻✨阿星,http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
-TVB无线新闻✨阿星,http://ali.hlspull.yximgs.com/live/d2331250dd26e1f49447324dcd5b7c68.flv
-TVB无线星河✨阿星,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB翡翠✨阿星,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠✨阿星,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB翡翠4k✨阿星,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 澳视澳门✨阿星,http://cdn.132.us.kg/live/asam/stream.m3u8
-澳亚卫视✨阿星,http://cdn.132.us.kg/live/as/stream.m3u8
-莲华卫视✨阿星,http://php.jdshipin.com:8880/amlh.php
 翡翠台-1✨阿星,http://php.jdshipin.com/smt.php?id=Tvbjade
 翡翠台-2✨阿星,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台-2✨阿星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -315,9 +309,13 @@ CETV早期教育✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CETV
 📺️Fanming✨阿星备3▶️,#genre#
 CCTV1✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 CCTV2✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
+CCTV3✨阿星,https://www.freetv.top/migu/624878271.m3u8?migutoken=380a18fe8dc81109270780918e605114ca218bcfa395aaa8682b605d1622439ffe7981dbd10f378c9c045f872d48dce39babcb012c7362dc8b21835e88fde6457bacaa4082c74879d64ad7aee4
 CCTV4✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
+CCTV5✨阿星,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903
 CCTV5+✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
+CCTV6✨阿星,https://www.freetv.top/migu/624878396.m3u8?migutoken=8e4f91b7950497f8570c74e50003b7fa23f6565c16a6b361ff855d3a969ddf7ea3826b04d20d76b6eeb472f0cb8b86284614a835429165709ec8c3055f8e9a7879e9594a4309b5d50f59f8a535
 CCTV7✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
+CCTV8✨阿星,https://www.freetv.top/migu/624878356.m3u8?migutoken=170b73b07e0cf0d307afea3545da5b9609d7c15461a2f4ac0f43634101df9baf391a446b91e5f84446b6a3b0934bb4730e2f3c4a32a565f904f22c8ff745a094d45dfd49c54f31b0b78156a080
 CCTV9✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 CCTV10✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 CCTV11✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
@@ -329,13 +327,7 @@ CCTV16✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m
 CCTV17✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDbIayWakK1A%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 CETV1✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFadA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 CETV4✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-中国教育1台✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
-中国教育2台✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
-中国教育3台✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
-中国教育4台✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
-CGTN✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtgAPxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd%2CEND
 
-湖南卫视✨阿星,http://cc2022.ifengli.com:2000/live/hnwshd/2500.m3u8?innersid=2025
 北京卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 江苏卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
@@ -358,8 +350,8 @@ CGTN✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u
 陕西卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 青海卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 安徽卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-甘肃卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-宁夏卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErrCLugPnTcUinEM8JeySg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
+甘肃卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErrCLugPnTcUinEM8JeySg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
+宁夏卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 内蒙古卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 云南卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 新疆卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
@@ -368,45 +360,18 @@ CGTN✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u
 西藏卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 延边卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 康巴卫视✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-兵团卫视✨阿星,http://cc2022.ifengli.com:2000/live/btwssd/1500.m3u8?innersid=2025
-香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+内蒙古卫视✨阿星,https://livestreambt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+湖北卫视✨阿星,http://cc2022.ifengli.com:2000/live/hbwssd/1500.m3u8?innersid=2025
+河南卫视✨阿星,http://cc2022.ifengli.com:2000/live/hnwssd/1500.m3u8?innersid=2025
+云南卫视✨阿星,http://cc2022.ifengli.com:2000/live/ynwshd/2500.m3u8?innersid=2025
+新疆卫视✨阿星,http://cc2022.ifengli.com:2000/live/xjwssd/1500.m3u8?innersid=2025
+延边卫视✨阿星,http://live.ybtvyun.com/video/s100167e5f23de35df/index.m3u8
+兵团卫视✨阿星,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+青海卫视✨阿星,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+浙江卫视✨阿星,http://aliml.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 
-浙江少儿✨阿星,https://aliml.cztv.com/channels/lantian/channel008/1080p.m3u8
-内蒙少儿✨阿星,https://livestreambt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 卡酷少儿✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDDWqVkjs3cnfSInf6A%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 山东教育✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227022/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EMkWp5fwJWRSC2qPwffoOzQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 优漫卡通✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227007/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhHDWGhkwx_zJcJUYE9TAaA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
 哈哈炫动✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227025/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7RoPnbSvRPd3KyTpQ76WpA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-
-
-超级电视剧✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EVGh4wVrIL86YabiEzt0u5Q%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-超级电影✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EOKgJMarN4M0aStGnXjR0A%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-睛彩竞技✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-睛彩篮球✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-超级体育✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWFXtEOg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-超级综艺✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYioXJd79dXZ_L0XAyn5Oqg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-精品萌宠✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvfRMC51wpBEwf_3ooIvthw%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-黑莓动画✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-古装剧场✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E5s4GUWWbtT1rNpig0Z_Q%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-动作电影✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBow_B3ta32lPIHmLzLPzVQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-军旅剧场✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfN0xtIcVecPauWX6HCC38w%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-家庭剧场✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EftyW3kjTIOj5n2P8RZkDxQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-惊悚悬疑✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsZ9kjVUW6IQXTWQniX9Byg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-未知✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226982/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E34ssTWVRRSna2CFQXnugg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-未知2✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfLBCW0GUL1k986fkoE_7hA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-黑莓电影✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-爱情喜剧✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ea1N_KgA8ifZhGjOaqvKIMg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-精品大剧✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E3L0P9l_fI2y0M6HyVzY8Ag%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-中国功夫✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEWe2gbwg0iLJum2oZPyg5Q%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-金牌综艺✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-军事评论✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqRd0uU_hKSUti2u5P6u77Q%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-哒啵赛事✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErjVvYM0ZqthEXIiqeoM2g%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-哒啵电竞✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EyKHPEcCpKH4LmXqAQnvIbg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-精品纪录✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-怡伴健康✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjNp5Bk4D1QoMTHkXgT3WLA%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-精品体育✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-潮妈辣婆✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_buXEAIzLX9DkyCQHTUDaw%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-农业致富✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUhRIwwqVhPIhuesQTtJ55Q%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-炫舞未来✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg411jnFsVKreoQSmD_yXg%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
-睛彩青少✨阿星,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4l0lmSfjwLWEfK_el1vH_mvs1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMWOMx4MGteHV2vLeW6BqoY%2CEND
