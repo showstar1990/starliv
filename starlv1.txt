@@ -1,4 +1,7 @@
-📺️医工✨阿星▶️,#genre#
+📺️阿星✨免费维护,#genre#
+关注抖音show.star,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+
+📺️央视✨阿星▶️,#genre#
 CCTV1✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv1avs
 CCTV1✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv1
 CCTV2✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv2
@@ -42,6 +45,7 @@ CCTV风云足球✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日
 CCTV风云音乐✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=fyyy
 CCTV高尔网球✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=gefwq
 
+📺️卫视✨阿星▶️,#genre#
 湖南卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=hntv
 重庆卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cqws
 江苏卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsws
@@ -81,7 +85,30 @@ CCTV高尔网球✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日
 延边卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=ybws
 安多卫视✨阿星,http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=adws
 
-📺️CIPTV✨阿星▶️,#genre#
+📺️港台✨阿星▶️,#genre#
+香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视✨阿星,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+JP新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+金庸武侠✨阿星,http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
+香港贺岁片,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.flv
+星光综合台✨阿星,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+RTHK33✨阿星,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34✨阿星,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35✨阿星,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+翡翠台-1✨阿星,http://php.jdshipin.com/smt.php?id=Tvbjade
+翡翠台-2✨阿星,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台-2✨阿星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台-3✨阿星,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+澳门莲花✨阿星,http://php.jdshipin.com:8880/amlh.php
+HOY77✨阿星,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+大爱1台✨阿星,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2台✨阿星,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+HK佛陀✨佛教,http://live.jingzong.org/live/hd/playlist.m3u8
+华藏TV✨佛教,https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+生命TV✨佛教,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+
+📺️央视✨阿星civp▶️,#genre#
 CCTV1✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-1-AVS-4K264.m3u8$4K
 CCTV2✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-2-HD-265-8M.m3u8
 CCTV3✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-3-AVS-4K264.m3u8$4K
@@ -116,6 +143,7 @@ CCTV-4k✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-4K-HD.m3
 文化精品✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-WENHUA-CQ.m3u8
 CETV早期教育✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CETV-ZQJY-CQ.m3u8
 
+📺️卫视✨阿星civp▶️,#genre#
 贵州卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_GUIZHOU-CQ.m3u8
 湖南卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HUNAN-HD-265-8M.m3u8
 江苏卫视✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_JIANGSU-HD-265-8M.m3u8
@@ -143,26 +171,3 @@ CETV早期教育✨阿星,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CETV
 凤凰中文✨阿星,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8
 凤凰资讯✨阿星,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8
 凤凰香港✨阿星,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
-
-📺️港台✨阿星▶️,#genre#
-香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视✨阿星,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-JP新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-金庸武侠✨阿星,http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
-香港贺岁片,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.flv
-星光综合台✨阿星,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-RTHK33✨阿星,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK34✨阿星,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK35✨阿星,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-翡翠台-1✨阿星,http://php.jdshipin.com/smt.php?id=Tvbjade
-翡翠台-2✨阿星,http://php.jdshipin.com/smt.php?id=jade_twn
-翡翠台-2✨阿星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台-3✨阿星,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-澳门莲花✨阿星,http://php.jdshipin.com:8880/amlh.php
-HOY77✨阿星,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-大爱1台✨阿星,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2台✨阿星,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-HK佛陀✨佛教,http://live.jingzong.org/live/hd/playlist.m3u8
-华藏TV✨佛教,https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-生命TV✨佛教,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
